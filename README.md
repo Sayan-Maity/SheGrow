@@ -173,7 +173,9 @@ Author : [Sayan Maity](sayancr777@gmail.com) and [Shrestha Das](https://github.c
  ## 📝 Endnote :
  While doing this project I(Sayan Maity) and Shrestha Das have learnt how to work in a team and time bounded situation. We enjoyed every moment doing this project and taking part in this awesome hackathon. We are also thankful to all the organizers for organizing this hackathon.
  
-
+ <p align="right">~ Sayan Maity</p>
+ <p align="right">~ Shrestha Das</p>
+ 
 
 
 
